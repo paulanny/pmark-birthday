@@ -192,7 +192,7 @@ export const galleryContent = {
     {
       id: 'g8',
       src: '/images/pm3.jpeg',
-      caption: 'A family of Love! My big sis with doings wey dey take care of omo badagry(p.s: she nade this possible too)',
+      caption: 'A family of Love! My big sis with doings wey dey take care of omo badagry(p.s: she made this possible too)',
     },
     {
       id: 'g9',
@@ -228,6 +228,16 @@ export const galleryContent = {
       id: 'g15',
       src: '/images/mentor-10.jpeg',
       caption: 'Badagry boy in Senator ni Ilu oba - somebody shout power!',
+    },
+    {
+      id: 'g15',
+      src: '/images/pm6.jpeg',
+      caption: 'Agba Business analyst, Cheers to many more memories',
+    },
+    {
+      id: 'g15',
+      src: '/images/pm7.jpeg',
+      caption: 'Business Guru and tycoon!, I celebrate Grace',
     },
   ],
 }
